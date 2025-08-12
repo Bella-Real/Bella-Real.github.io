@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Welcome to Isabella's Corner!"
-date:   2025-08-10 16:45:01 -0700
-categories: welcome
----
-
-# Day 1
-This is Day 1 of my cybersecurity journey where I hope to share my progress with personal projects and learning.
