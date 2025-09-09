@@ -25,3 +25,7 @@ After signing in and changing the default password, now is where you get to the 
 2. Sett the Email Template for the user to receive
 3. Configure SMTP relay details or "Sending Profiles" to send emails from
 4. Set up a Landing Page that the user will go to after clicking on the phishing link
+
+Soooooooo I had an issue with choosing the proper URL for the landing page. I looked into it and wasn't able to figure it out using Railway so I'm going to try hosting it locally instead just to get it functioning and once I get that resolved, I might try and host it on a RaspberryPi for fun?
+
+I've been in the process of moving so this project has gotten extremely delayed! I am determined to return to it once I'm more settled and less frustrated with the issue I ran into hehe in the meantime, I'm going to work on something else. To be continued...
