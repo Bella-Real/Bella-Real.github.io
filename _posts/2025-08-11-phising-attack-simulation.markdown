@@ -2,8 +2,8 @@
 layout: post
 title:  "Phishing Attack Simulation"
 date:   2025-08-11 16:45:01 -0700
-categories: welcome
-image: /assets/images/image.png
+categories: Security
+# image: /assets/images/image.png
 ---
 
 For this project, I will be using the Gophish framework and I will be following [this](https://alphasec.io/phishing-attack-simulation-with-gophish/) tutorial from alphasec.
@@ -22,10 +22,10 @@ Once you have the Docker image up and running, if you look at the deploy logs, y
 After signing in and changing the default password, now is where you get to the fun part. From here you need to:
 
 1. Select the Users/Groups to be phished
-2. Sett the Email Template for the user to receive
+2. Set the Email Template for the user to receive
 3. Configure SMTP relay details or "Sending Profiles" to send emails from
 4. Set up a Landing Page that the user will go to after clicking on the phishing link
 
-Soooooooo I had an issue with choosing the proper URL for the landing page. I looked into it and wasn't able to figure it out using Railway so I'm going to try hosting it locally instead just to get it functioning and once I get that resolved, I might try and host it on a RaspberryPi for fun?
+_Soooooooo I had an issue with choosing the proper URL for the landing page. I looked into it and wasn't able to figure it out using Railway so I'm going to try hosting it locally instead just to get it functioning and once I get that resolved, I might try and host it on a RaspberryPi for fun?_
 
-I've been in the process of moving so this project has gotten extremely delayed! I am determined to return to it once I'm more settled and less frustrated with the issue I ran into hehe in the meantime, I'm going to work on something else. To be continued...
+_I've been in the process of moving so this project has gotten extremely delayed! I am determined to return to it once I'm more settled and less frustrated with the issue I ran into hehe in the meantime, I'm going to work on something else. To be continued..._
