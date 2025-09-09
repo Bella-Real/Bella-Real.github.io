@@ -21,7 +21,7 @@
 title: Isabella's Corner
 email: 1realisabella@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of hands-on projects and skills built while exploring the world of cybersecurity.
+  A collection of hands-on projects while exploring the world of IT and cybersecurity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
